@@ -44,7 +44,7 @@ yarn install
 
 # CAT Protocol projesinin klonlanması
 echo -e "${ORANGE}CAT Protocol projesi klonlanıyor...${NC}"
-git clone https://github.com/CATProtocol/cat-token-box.git
+git clone https://github.com/web3-monitor/cat-token-box.git
 
 # Proje dizinine geçiş ve kurulumu
 cd cat-token-box
